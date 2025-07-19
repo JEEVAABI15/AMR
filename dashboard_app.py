@@ -254,5 +254,5 @@ else:
 st.markdown("---")
 st.markdown("📊 Built by Jeeva Abishake for Vivli AMR Challenge")
 
-st.write("Current working directory:", os.getcwd())
-st.write("Columns in df:", df.columns.tolist()) 
+# st.write("Current working directory:", os.getcwd())
+# st.write("Columns in df:", df.columns.tolist()) 
